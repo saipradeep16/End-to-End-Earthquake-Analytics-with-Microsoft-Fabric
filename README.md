@@ -11,9 +11,7 @@ This project demonstrates the complete lifecycle of modern data engineering usin
 ## 🛠️ Technologies Used
 
 - **Microsoft Fabric**
-  - Data Engineering (Lakehouse, Notebooks)
-  - Data Factory (Pipeline orchestration)
-  - Power BI (Reporting)
+  - Lakehouse, Notebook, Data Pipeline, Power BI report
 - **PySpark** (inside Fabric notebooks)
 - **USGS Earthquake API** (data source)
 - **OneLake** (storage and querying)
