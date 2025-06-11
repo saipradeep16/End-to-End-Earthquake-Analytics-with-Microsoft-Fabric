@@ -60,9 +60,9 @@ To explore or replicate this project:
 
 ---
 
-## 🔁 Pipeline Execution (Fabric Data Factory)
+## 🔁 Pipeline Execution 
 
-![Pipeline](./Screenshot%202025-06-11%20103022.png)
+![Pipeline](./DataPipeline.png)
 
 The project uses a 3-stage Fabric pipeline:
 1. **Bronze Notebook** → Raw ingestion.
@@ -91,12 +91,3 @@ The project uses a 3-stage Fabric pipeline:
 - Real-time ingestion of natural disaster data
 - Scalable and modular notebook design
 - Production-grade reporting with Power BI
-
----
-
-## 🧑‍💻 Author
-
-**Saipradeep Bomma**  
-📍 Dallas, TX  
-📫 saipradeepbomma16@gmail.com  
-🔗 [GitHub](https://github.com/saipradeep16) | [LinkedIn](https://www.linkedin.com/in/saipradeepbomma16)
